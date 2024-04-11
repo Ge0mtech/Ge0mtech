@@ -2,7 +2,7 @@
    <H1> Waddup son 👋 I'm 『CVL』</H1>
 </div>
 <div align="center">
-  <img src="https://64.media.tumblr.com/7d88bfbb88ed91b050f1262ba458d891/74b254904f8c42e0-e7/s540x810/a96d904a78069ae31c29bfcb1f3175a7f2fe6c32.gif" alt="Left GIF" style="float: left; margin-right: 10px;">
+  <img src="https://qph.cf2.quoracdn.net/main-qimg-a3b7cd7c2987ae012ea50bf571ae1d6a" alt="Left GIF" style="float: left; margin-right: 10px;">
 </div>
 
 ## Where you can find me:
