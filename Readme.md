@@ -2,7 +2,7 @@
    <H1> Waddup son 👋 I'm 『CVL』</H1>
 </div>
 <div align="center">
-  <img src="https://i.pinimg.com/originals/2a/41/a1/2a41a1f4cde1b191d70a5cc87d362b4a.gif" alt="Left GIF" style="float: left; margin-right: 10px;">
+  <img src="https://media.discordapp.net/attachments/1117532038933782669/1228128799053578240/giphy.gif?ex=662aeb13&is=66187613&hm=d9aca0887c5e9e76b5351d2727c937970e76caa1a70a07b7b71e2f7ecb87f118&=&width=720&height=405" alt="Left GIF" style="float: left; margin-right: 10px;">
 </div>
 
 ## Where you can find me:
