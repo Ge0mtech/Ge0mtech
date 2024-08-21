@@ -1,11 +1,8 @@
-<div align="center">
-   <H1> Waddup son 👋 I'm 『CVL』</H1>
-</div>
-<div align="center">
-  <img src="https://media.discordapp.net/attachments/1117532038933782669/1228128799053578240/giphy.gif?ex=662aeb13&is=66187613&hm=d9aca0887c5e9e76b5351d2727c937970e76caa1a70a07b7b71e2f7ecb87f118&=&width=720&height=405" alt="Left GIF" style="float: left; margin-right: 10px;">
-</div>
 
-## Where you can find me:
+## Waddup son 👋 I'm 『CVL』
+
+#### Where you can find me 
+
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5Ys8gpWxTQ)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23232816/cvl)
 
@@ -21,5 +18,3 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
