@@ -4,7 +4,7 @@
 <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" alt="Linux Penguin" width="100"/>
 
 ## À propos de moi 🚀
-J'ai construit cette merde, MOI. Brique par brique
+J'ai construit cette merde, MOI brique par brique
 ## Mes Outils Préférés 🛠️
 ### Environnement de Développement
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
