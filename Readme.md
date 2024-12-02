@@ -1,4 +1,4 @@
-# 『CVL』- Waddup Son 👋
+# Waddup Son 👋
 
 <!-- Ajoutez votre GIF ici -->
 <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" alt="Linux Penguin" width="100"/>
@@ -19,6 +19,11 @@
 ### Infrastructure et Déploiement
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Proxmox](https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33)
+
+### Ou vous pouvez me retrouver
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/___CVL___?t=9WGkhSftpWEf7Yjf5lD49w&s=09)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/_CVL_/s/XBpICh7TyF)
 
 ## Mes Statistiques GitHub 📊
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=CV-DEBUG&show_icons=true&theme=radical)
