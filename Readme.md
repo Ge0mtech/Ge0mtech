@@ -1,6 +1,6 @@
-# Waddup Son 👋
+# Hey it's me CVL 👋
 
-<img src="https://cdn.discordapp.com/attachments/997332253606678618/1313188086108393553/large.jpg?ex=674f3935&is=674de7b5&hm=8577ea501ab5e03b26898299bf91e3c651f71bf3ae2cec0d3d321baf8b5fc403&" alt="Banner" style="width: 100%; height: auto;"/>
+<img src="https://i.pinimg.com/originals/82/99/62/829962f5875fae4615ecf4cb25c5ba65.gif" alt="Banner" style="width: 100%; height: auto;"/>
 
 ## Mes Outils Préférés 🛠️
 ### Environnement de Développement
