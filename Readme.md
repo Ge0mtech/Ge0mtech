@@ -1,6 +1,8 @@
 # Hey it's me CVL 👋
 
-<img src="https://i.pinimg.com/originals/82/99/62/829962f5875fae4615ecf4cb25c5ba65.gif" alt="Banner" style="width: 100%; height: auto;"/>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/82/99/62/829962f5875fae4615ecf4cb25c5ba65.gif" alt="Banner" style="width: 100%; height: auto;" />
+</p>
 
 ## Mes Outils Préférés 🛠️
 ### Environnement de Développement
