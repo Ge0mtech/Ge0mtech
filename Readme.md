@@ -28,4 +28,4 @@
 
 ## Mes Statistiques GitHub 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CV-DEBUG&bg_color=000000&icon_color=0000ff&text_color=ffffff&show_icons=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CV-DEBUG&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
