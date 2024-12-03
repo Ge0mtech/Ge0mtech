@@ -25,6 +25,7 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/___CVL___?t=9WGkhSftpWEf7Yjf5lD49w&s=09)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/_CVL_/s/XBpICh7TyF)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://cv-debug.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swan-cuvelier-314aa533b)
 
 ## Mes Statistiques GitHub 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CV-DEBUG&bg_color=000000&icon_color=0000ff&text_color=ffffff&show_icons=true)
