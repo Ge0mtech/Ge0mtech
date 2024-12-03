@@ -27,4 +27,5 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://cv-debug.github.io/Portfolio/)
 
 ## Mes Statistiques GitHub 📊
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=CV-DEBUG&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CV-DEBUG&bg_color=000000&icon_color=0000ff&text_color=ffffff&show_icons=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
