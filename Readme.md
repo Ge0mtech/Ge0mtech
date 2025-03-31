@@ -1,7 +1,7 @@
 ## Hey c'est moi CVL 👋
 
 <p align="center">
-  <img src="https://i.gifer.com/O95X.gif" alt="Banner" style="width: 50%; height: auto;" />
+  <img src="https://i.gifer.com/O95X.gif" alt="Banner" style="width: 70%; height: auto;" />
 </p>
 
 
