@@ -60,6 +60,6 @@
     </a>
 - **Portfolio**
   
-  <a href="https://cv-debug.github.io/Portfolio/">
+  <a href="https://ge0mtech.github.io/Portfolio/">
       <img src="https://cdn-icons-png.freepik.com/256/3384/3384945.png?semt=ais_hybrid" alt="Portfolio" style="width:50px; height:50px;" />
     </a>
