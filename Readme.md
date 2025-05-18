@@ -18,7 +18,7 @@
   [![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)<a href="https://www.warp.dev">
       <img src="https://cdn.terminaltrove.com/m/b1c31938-6e80-4f28-a2cd-d2047eddcdb2.png#gh-dark-mode-only&width=50&height=50" alt="Warp" style="width:50px; height:50px;" />
     </a>
-- **L'Évangile**
+- **Le Graal**
 
    ![Linux](https://skillicons.dev/icons?i=linux)
 
