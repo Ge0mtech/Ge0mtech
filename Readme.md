@@ -55,7 +55,7 @@
 ### Réseaux et Portfolio
 - **Réseaux Sociaux**
   
-   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/swan-cuvelier-995b2336a/) <a href="https://www.reddit.com/u/_CVL_/s/XBpICh7TyF">
+   <a href="https://www.reddit.com/u/_CVL_/s/XBpICh7TyF">
       <img src="https://static-00.iconduck.com/assets.00/reddit-icon-2048x2048-5b96i00x.png#gh-dark-mode-only&width=50&height=50" alt="Reddit" style="width:50px; height:50px;" />
     </a>
 - **Portfolio**
