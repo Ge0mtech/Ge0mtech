@@ -60,6 +60,6 @@
     </a>
 - **Portfolio**
   
-  <a href="https://ge0mtech.github.io/Portfolio/">
-      <img src="https://cdn-icons-png.freepik.com/256/3384/3384945.png?semt=ais_hybrid" alt="Portfolio" style="width:50px; height:50px;" />
-    </a>
+<a href="https://ge0mtech.github.io/Portfolio/">
+  <img src="https://static.wikia.nocookie.net/b956aeb0-83b3-4f9f-a263-d679a2269db3/scale-to-width/755" alt="Portfolio" style="width:50px; height:50px;" />
+</a>
