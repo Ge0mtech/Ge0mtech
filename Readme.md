@@ -54,12 +54,13 @@
 
 ### Réseaux et Portfolio
 - **Réseaux Sociaux**
-  
-   <a href="https://www.reddit.com/u/_CVL_/s/XBpICh7TyF">
-      <img src="https://static-00.iconduck.com/assets.00/reddit-icon-2048x2048-5b96i00x.png#gh-dark-mode-only&width=50&height=50" alt="Reddit" style="width:50px; height:50px;" />
-    </a>
+
+ <a href="https://www.reddit.com/u/_CVL_/s/XBpICh7TyF">
+   <img src="https://redditinc.com/hs-fs/hubfs/Reddit%20Inc/Content/Brand%20Page/Reddit_Logo.png" alt="Reddit" style="width:50px; height:50px;" />
+ </a>
+
 - **Portfolio**
   
-  <a href="https://ge0mtech.github.io/Portfolio/">
-     <img src="https://static.wikia.nocookie.net/b956aeb0-83b3-4f9f-a263-d679a2269db3/scale-to-width/755" alt="Portfolio" style="width:50px; height:50px;" />
-  </a>
+    <a href="https://ge0mtech.github.io/Portfolio/">
+       <img src="https://static.wikia.nocookie.net/b956aeb0-83b3-4f9f-a263-d679a2269db3/scale-to-width/755" alt="Portfolio" style="width:50px; height:50px;" />
+     </a>
