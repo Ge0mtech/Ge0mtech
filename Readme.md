@@ -55,9 +55,9 @@
 ### Réseaux et Portfolio
 - **Réseaux Sociaux**
 
- <a href="https://www.reddit.com/u/_CVL_/s/XBpICh7TyF">
-   <img src="https://redditinc.com/hs-fs/hubfs/Reddit%20Inc/Content/Brand%20Page/Reddit_Logo.png" alt="Reddit" style="width:50px; height:50px;" />
- </a>
+     <a href="https://www.reddit.com/u/_CVL_/s/XBpICh7TyF">
+        <img src="https://redditinc.com/hs-fs/hubfs/Reddit%20Inc/Content/Brand%20Page/Reddit_Logo.png" alt="Reddit" style="width:50px; height:50px;" />
+     </a>
 
 - **Portfolio**
   
