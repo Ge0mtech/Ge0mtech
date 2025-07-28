@@ -1,66 +1,29 @@
-<div align="center">
-<pre>
- ██████╗ ███████╗ ██████╗ ███╗   ███╗████████╗███████╗ ██████╗██╗  ██╗
-██╔════╝ ██╔════╝██╔═████╗████╗ ████║╚══██╔══╝██╔════╝██╔════╝██║  ██║
-██║  ███╗█████╗  ██║██╔██║██╔████╔██║   ██║   █████╗  ██║     ███████║
-██║   ██║██╔══╝  ████╔╝██║██║╚██╔╝██║   ██║   ██╔══╝  ██║     ██╔══██║
-╚██████╔╝███████╗╚██████╔╝██║ ╚═╝ ██║   ██║   ███████╗╚██████╗██║  ██║
- ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝     ╚═╝   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝
-                                                                      
-</pre>
-</div>
+```
+Ge0mtech@LEGION:~$ fastfetch
 
-## Mes Outils Préférés 🛠️
-
-### Développement et Environnement
-- **IDE et Terminal**
-  
-  [![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)<a href="https://www.warp.dev">
-      <img src="https://cdn.terminaltrove.com/m/b1c31938-6e80-4f28-a2cd-d2047eddcdb2.png#gh-dark-mode-only&width=50&height=50" alt="Warp" style="width:50px; height:50px;" />
-    </a>
-- **Le Graal**
-
-   ![Linux](https://skillicons.dev/icons?i=linux)
-
-### Gestion de Versions et Collaboration
-- **Contrôle de Version**
-  
-   [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-- **Plateformes de Collaboration**
-  
-   [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) <a href="https://obsidian.md">
-      <img src="https://forum.obsidian.md/uploads/default/original/3X/9/f/9f1b5b46aed533f5386cf276ab2cdce48cbd2e25.png" alt="Obsidian" style="width:50px; height:50px;" />
-    </a>
-
-### Infrastructure et Déploiement
-- **Conteneurisation**
-  
-   ![Docker](https://skillicons.dev/icons?i=docker)
-  <a href="https://podman.io/">
-      <img src="https://user-images.githubusercontent.com/1636769/160798202-2d198de9-144c-4bcf-b6a1-e55b584eed54.png" alt="Podman" style="width:50px; height:50px;" />
-    </a>
-  
-- **Virtualisation**
-  
-   <a href="#">
-      <img src="https://img.icons8.com/fluent/512/proxmox.png#gh-dark-mode-only&width=50&height=50" alt="Proxmox" style="width:50px; height:50px;" />
-    </a> <a href="https://www.vmware.com/products/workstation-player.html">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/2051px-Vmware_workstation_16_icon.svg.png" alt="VMware Workstation" style="width:50px; height:50px;" />
-    </a> <a href="https://www.vmware.com/products/esxi-and-esx.html">
-      <img src="https://raw.githubusercontent.com/pulumiverse/pulumi-esxi-native/main/docs/esxi-logo.png" alt="ESXi" style="width:50px; height:50px;" />
-    </a><a href="https://www.virtualbox.org/">
-      <img src="https://grafikart.fr/uploads/icons/virtualbox.png" alt="VirtualBox" style="width:50px; height:50px;" />
-    </a>
-
-### Réseaux et Portfolio
-- **Réseaux Sociaux**
-
-     <a href="https://www.reddit.com/u/_CVL_/s/XBpICh7TyF">
-        <img src="https://redditinc.com/hs-fs/hubfs/Reddit%20Inc/Content/Brand%20Page/Reddit_Logo.png" alt="Reddit" style="width:50px; height:50px;" />
-     </a>
-
-- **Portfolio**
-  
-    <a href="https://ge0mtech.github.io/Portfolio/">
-       <img src="https://static.wikia.nocookie.net/b956aeb0-83b3-4f9f-a263-d679a2269db3/scale-to-width/755" alt="Portfolio" style="width:50px; height:50px;" />
-     </a>
+                   .~vVeZNgQBBBQQg9Ze1v~.                   
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 Ge0mtech@LEGION
+           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
+        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: 🐧 GNU/Linux
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Age: 🎂 20 years
+    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Shell: 🐚 /bin/bash
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      
+  ?@@@@@@@@@@q                                z@@@@@@@@@#?     
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    
+_g@@@@@@@@@@2-                                `M@@@@@@@@@@0 
+a@@@@@@@@@@2                                    v@@@@@@@@@@;   🖥️ Virtualisation
+#@@@@@@@@@@_                                     @@@@@@@@@@y   ------------------
+@@@@@@@@@@@.                                     @@@@@@@@@@%   Proxmox, VMware Workstation, VirtualBox
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   
+W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   📦 Conteneurs
+~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    ---------------
+ ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    Docker, Podman
+  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     
+   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      🤝 Versioning & Collaboration
+    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       -----------------------------
+      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         Git, GitHub
+        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             ⚡ Développement & Terminal
+              "Lf8@@@@v              q@@@#Qa?:                 ----------------------------
+                  -!v|`              _?v!`                     VS Code, Warp, Vim
+```
